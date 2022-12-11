@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome,  to my github profile.
+Welcome,  to my github page.
 
 Let me intoduce myself briefly.
 
