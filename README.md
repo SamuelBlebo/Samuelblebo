@@ -2,8 +2,6 @@
 
 Welcome,  to my github page.
 
-Let me intoduce myself briefly.
-
 I am a professional full-stack web developer with 2+ years of experience in building and managing
 websites. Key strengths include good communication skills , and abilities to complete projects with
 most popular technologies like the MERN Stack, JavaScript and WordPress.
