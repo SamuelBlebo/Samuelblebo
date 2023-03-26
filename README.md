@@ -7,8 +7,6 @@ websites. Key strengths include good communication skills , and abilities to com
 most popular technologies like the MERN Stack, JavaScript and WordPress.
 
 
-🔭 I’m currently working on 'Nofap Soldier', an application to help users quit porn addiction.
-
 Do connect with me via [linkedIn](https://www.linkedin.com/in/samuel-blebo-1a9a2316a/) and [twitter](https://twitter.com/samuel_blebo) 
 
 
